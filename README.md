@@ -20,6 +20,7 @@ To determine the employees eligibile for the mentorship opportunity, a query was
 3. As shown in **Fig. 1**, a majority of those retiring hold technical positions, versus managerial.
 
 **Fig. 1**
+
 <img width="178" alt="Screen Shot 2021-06-21 at 12 05 02 AM" src="https://user-images.githubusercontent.com/45336910/122705668-35e83c80-d224-11eb-84de-552c5c5f2eb1.png">
 
 4. 1,549 employees are eligible for the mentorship program, which represents ~1.5% of those eligbile for retirement.
