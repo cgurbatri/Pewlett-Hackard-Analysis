@@ -26,7 +26,7 @@ To determine the employees eligibile for the mentorship opportunity, a query was
 4. 1,549 employees are eligible for the mentorship program, which represents ~1.5% of those eligbile for retirement.
 
 ### Summary
-90,398 jobs will need to be filled as those born between 1952 and 1955 retire. However, only 1,549 employees are eligible for the mentorship program.  We also recomment the following two queries:
+90,398 jobs will need to be filled as those born between 1952 and 1955 retire. However, only 1,549 employees are eligible for the mentorship program.  We also recommend the following two queries:
 
 1. Determine the titles of those eligible for the mentorship program. This will confirm that there are enough mentors with each title to train for each position. For example, there does not seem to be mentor in a manager position eligible to train for the two manager positions that will need to be filled.
 
